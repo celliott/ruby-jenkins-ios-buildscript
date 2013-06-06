@@ -1,4 +1,4 @@
-Ruby to script to build iOS apps on a Jenkins Build server and upload to hockeykit server
+Ruby script to build iOS apps on a Jenkins Build server and upload to hockeykit server
 
 features:
 - builds adhoc ipa or release archives with resigned adhoc ipa for testing release builds
