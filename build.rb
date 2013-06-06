@@ -24,7 +24,7 @@ require File.join(File.dirname(__FILE__),  'gmail_handler.rb')
     codeSigningIdentity="iPhone Distribution: Example Company"
     archivesPath="/Users/Shared/Jenkins/archives/"
     installDiskRootPath="/Library/Server/Web/Data/Sites/Default/install"
-    failureEmail="developers@example.com"
+    failureEmail="failure@example.com"
     
   # pulled from jenkins
     home = File.expand_path("..",Dir.pwd)
